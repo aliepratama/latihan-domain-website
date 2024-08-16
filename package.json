@@ -18,7 +18,8 @@
     "primeicons": "^7.0.0",
     "primevue": "^4.0.4",
     "tailwindcss-primeui": "^0.3.4",
-    "vue": "latest"
+    "vue": "latest",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.1",
